@@ -1,0 +1,12 @@
+{
+  "name": "event-neural-network",
+  "description": "A neural network example that is activated based on events",
+  "authors": "Radu Zaharia",
+  "version": "1.0.0",
+  "main": "app.js",
+  "prettier": {
+    "printWidth": 160,
+    "max_line_length": 160
+  },
+  "dependencies": {}
+}
